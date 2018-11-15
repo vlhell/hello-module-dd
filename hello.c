@@ -18,7 +18,7 @@ static void __exit hello_exit(void)
 module_init(hello_init);
 module_exit(hello_exit);
 MODULE_LICENSE("GPL");
-MODULE_DESCRPTION("Hello-world or greeting module");
+MODULE_DESCRIPTION("Hello-world or greeting module");
 MODULE_AUTHOR("Vladislav Bogdanov");
 
 /* you are my reggae untouchable */
